@@ -6,5 +6,5 @@
 
 ### The desired outcome
 Desktop and Mobile design:
-[desired outcome](./images/desktop-design.jpg)
-[desired outcome](./images/mobile-design.jpg)
+![desired outcome](./images/desktop-design.jpg)
+![desired outcome](./images/mobile-design.jpg)
