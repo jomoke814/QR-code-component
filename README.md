@@ -4,11 +4,11 @@
 ### The Challenge
 - The challenge is to build out QR code component and get it looking as close to the design provided by frontend mentor as possible. The challenge need a basic understanding of HTML and CSS.
 
+### Live preview of the project
+- Live site: https://jomoke814.github.io/QR-code-component/
+- Solution URL: https://github.com/jomoke814/QR-code-component
+
 ### The desired outcome
 Desktop and Mobile design:
 ![desired outcome](./images/desktop-design.jpg)
 ![desired outcome](./images/mobile-design.jpg)
-
-### Live preview of the project
-- Live site: https://jomoke814.github.io/QR-code-component/
-- Solution URL: https://github.com/jomoke814/QR-code-component
