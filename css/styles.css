@@ -23,6 +23,7 @@ body{
     justify-content: center;
     height: 100vh;
     width: 100vw;
+    margin: 20px;
 }
 
 .container {
@@ -37,12 +38,13 @@ body{
 
 .container p {
     color: var(--para-color);
-    margin-top: 5px;
+    line-height: 1.4;
 }
 
-h3 {
+h1 {
     color: var(--heading-color);
-    margin-top: 5px;
+    line-height: 1.4;
+    font-size: 1rem;
 }
 
 img {
@@ -55,6 +57,7 @@ img {
 @media(max-width:768px) {
     .container {
         display: block;
+        margin: 20px;
     }
 
     .attribution {
